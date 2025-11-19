@@ -1,16 +1,16 @@
-# my_first_app
+# 📱 Mi Primera Aplicación Flutter
 
-A new Flutter project.
+Este es mi primer proyecto creado con **Flutter**, donde inicié mis prácticas de desarrollo móvil.  
+El proyecto muestra un mensaje simple en pantalla:  
+**"Hola Rohde desde Flutter 👋"**, e incluye un botón que cambia el color del texto dinámicamente.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Características
 
-A few resources to get you started if this is your first Flutter project:
+- Interfaz sencilla y amigable  
+- Cambio de color del texto con un `FloatingActionButton`  
+- Uso de `StatefulWidget`  
+- Estructura limpia y lista para ampliar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
